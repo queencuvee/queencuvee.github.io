@@ -2,8 +2,7 @@
 layout: post
 title: a beginner’s guide to wine no.2
 ---
-![](/images/{{ img_dir }}/1.jpg)
-{% assign img_dir = "name-of-img-dir" %}
+![](/images/a-beginners-guide-to-wine-no2/1.jpg)
 Now that we’ve covered all the preliminary stuff like the actual growing of the grapes and making of the wine, we can get into the best bit: how to drink it! At this point you may want to check out this post on the tools of the trade, because things like having a good wine glass can really improve your tasting experience.
 
 ## storage
